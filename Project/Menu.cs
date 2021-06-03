@@ -17,10 +17,10 @@ namespace Project
             InitializeComponent();
         }
 
-        List list;
+        Journal list;
         private void button1_Click(object sender, EventArgs e)
         {
-            list = new List();
+            list = new Journal();
             list.Show();
             this.Hide();
         }
