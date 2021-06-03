@@ -86,3 +86,29 @@ C:\Users\Home\Desktop\АГУ\6_СЕМЕСТР\Инженерный практи�
 C:\Users\Home\Desktop\АГУ\6_СЕМЕСТР\Инженерный практикум 05.06\2\physical-master\physical-master\Project\Project\obj\Debug\Project.csproj.CopyComplete
 C:\Users\Home\Desktop\АГУ\6_СЕМЕСТР\Инженерный практикум 05.06\2\physical-master\physical-master\Project\Project\obj\Debug\Project.exe
 C:\Users\Home\Desktop\АГУ\6_СЕМЕСТР\Инженерный практикум 05.06\2\physical-master\physical-master\Project\Project\obj\Debug\Project.pdb
+C:\Users\Home\Project\Project\bin\Debug\Project.exe.config
+C:\Users\Home\Project\Project\bin\Debug\Project.exe
+C:\Users\Home\Project\Project\bin\Debug\Project.pdb
+C:\Users\Home\Project\Project\bin\Debug\EntityFramework.dll
+C:\Users\Home\Project\Project\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Home\Project\Project\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Home\Project\Project\bin\Debug\Oracle.ManagedDataAccess.EntityFramework.dll
+C:\Users\Home\Project\Project\bin\Debug\EntityFramework.xml
+C:\Users\Home\Project\Project\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Home\Project\Project\obj\Debug\Project.csprojAssemblyReference.cache
+C:\Users\Home\Project\Project\obj\Debug\Project.Choose.resources
+C:\Users\Home\Project\Project\obj\Debug\Project.LFK.resources
+C:\Users\Home\Project\Project\obj\Debug\Project.Stat_group.resources
+C:\Users\Home\Project\Project\obj\Debug\Project.Stat_section.resources
+C:\Users\Home\Project\Project\obj\Debug\Project.Stat_student.resources
+C:\Users\Home\Project\Project\obj\Debug\Project.login.resources
+C:\Users\Home\Project\Project\obj\Debug\Project.Menu.resources
+C:\Users\Home\Project\Project\obj\Debug\Project.List.resources
+C:\Users\Home\Project\Project\obj\Debug\Project.NormDate.resources
+C:\Users\Home\Project\Project\obj\Debug\Project.Properties.Resources.resources
+C:\Users\Home\Project\Project\obj\Debug\Project.Statistics.resources
+C:\Users\Home\Project\Project\obj\Debug\Project.csproj.GenerateResource.cache
+C:\Users\Home\Project\Project\obj\Debug\Project.csproj.CoreCompileInputs.cache
+C:\Users\Home\Project\Project\obj\Debug\Project.csproj.CopyComplete
+C:\Users\Home\Project\Project\obj\Debug\Project.exe
+C:\Users\Home\Project\Project\obj\Debug\Project.pdb

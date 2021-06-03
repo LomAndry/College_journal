@@ -24,7 +24,8 @@ namespace Project
         OracleConnection ORACLE = new OracleConnection(constr);
         static string constr = "User Id=PHYSICAL_PROJECT; Password=1111;Data Source=127.0.0.1:1521/xe";
         OracleDataAdapter oraAdap = new OracleDataAdapter();
-        string month = DateTime.Now.ToString("MM/yy");//.Replace('/','.');
+        //string month = DateTime.Now.ToString("MM/yy");//.Replace('/','.');
+        string month = DateTime.Now.ToString("MM");
 
         private void Load_List()
         {
@@ -69,14 +70,14 @@ namespace Project
             {
                 group = listBox1.SelectedItems[0].ToString();
             }
-            oraAdap.SelectCommand.CommandText = "Select distinct date_lesson from journal, sp_st_group, st_ank1 where st_ank1.K_ST = journal.ID_STUDENT and st_ank1.GROUP_ID = sp_st_group.ID " +
-                "and sp_st_group.TITLE = '" + listBox1.SelectedItem + "' and Substr(DATE_LESSON,4, 5) = '" + month + "'";
+            oraAdap.SelectCommand.CommandText = "Select distinct DATE_LESSON from JOURNAL, SP_ST_GROUP, ST_ANK1 where ST_ANK1.K_ST = JOURNAL.ID_STUDENT and ST_ANK1.GROUP_ID = SP_ST_GROUP.ID " +
+                "and SP_ST_GROUP.TITLE = '" + listBox1.SelectedItem + "' and Substr(DATE_LESSON,4,3-1) = '" + month + "'";
             DataTable date_lesson = new DataTable();
             oraAdap.Fill(date_lesson);
             if (date_lesson.Rows.Count == 0) return;
 
             oraAdap.SelectCommand.CommandText = "Select STFAM||' '||STNAME||' '||STOT as FIO, date_lesson, value_norm, attendance from journal, sp_st_group, st_ank1 where st_ank1.K_ST = journal.ID_STUDENT " +
-                " and st_ank1.GROUP_ID = sp_st_group.ID and sp_st_group.TITLE = '" + listBox1.SelectedItem + "' and Substr(DATE_LESSON,4, 5) = '" + month + "' order by FIO";
+                " and st_ank1.GROUP_ID = sp_st_group.ID and sp_st_group.TITLE = '" + listBox1.SelectedItem + "' and Substr(DATE_LESSON,4,3-1) = '" + month + "' order by FIO";
             DataTable journal = new DataTable();
             oraAdap.Fill(journal);
 
@@ -132,8 +133,7 @@ namespace Project
         }
 
         private void textBox1_TextChanged(object sender, EventArgs e)
-        {
-           
+        {           
             
         }
 
@@ -160,8 +160,8 @@ namespace Project
         }
 
         private void comboBox1_SelectedIndexChanged(object sender, EventArgs e)
-        {
-            month = Convert.ToDateTime(comboBox1.Text + "/01/"+DateTime.Now.ToString("yy")).ToString("MM/yy");
+        {            
+            month = Convert.ToDateTime("01." + comboBox1.Text + DateTime.Now.ToString("yy")).ToString("MM");
             Update_Load();
         }
 

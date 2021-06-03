@@ -127,7 +127,7 @@ namespace Project
 
         private void button1_Click(object sender, EventArgs e)
         {
-            oraAdap.SelectCommand.CommandText = "select(TRIM(stfam) || ' ' || TRIM(stname) || ' ' || TRIM(stot)) ФИО, (month1+month2+month3+month4) Балл from lfk, st_ank1, sp_st_group " +
+            oraAdap.SelectCommand.CommandText = "select(TRIM(STFAM) || ' ' || TRIM(STNAME) || ' ' || TRIM(STOT)) ФИО, (MONTH1+MONTH2+MONTH3+MONTH4) Балл from lfk, st_ank1, sp_st_group " +
                 "where st_ank1.GROUP_ID = sp_st_group.ID and lfk.k_st = st_ank1.k_st and sp_st_group.TITLE = '" + listBox1.SelectedItem + "'  and semestr = '"+comboBox1.Text+"'";
             DataTable data = new DataTable();
             oraAdap.Fill(data);
