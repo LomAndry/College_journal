@@ -1,0 +1,88 @@
+D:\Project\Project\bin\Debug\Project.exe.config
+D:\physical\Project\Project\bin\Debug\Project.exe.config
+D:\physical\Project\Project\bin\Debug\Project.exe
+D:\physical\Project\Project\bin\Debug\Project.pdb
+D:\physical\Project\Project\obj\Debug\Project.csprojResolveAssemblyReference.cache
+D:\physical\Project\Project\obj\Debug\Project.Menu.resources
+D:\physical\Project\Project\obj\Debug\Project.Properties.Resources.resources
+D:\physical\Project\Project\obj\Debug\Project.csproj.GenerateResource.Cache
+D:\physical\Project\Project\obj\Debug\Project.exe
+D:\physical\Project\Project\obj\Debug\Project.pdb
+D:\physical\Project\Project\obj\Debug\Project.login.resources
+D:\physical\Project\Project\obj\Debug\Project.List.resources
+D:\physical\Project\Project\obj\Debug\Project.NormDate.resources
+D:\physical\Project\Project\obj\Debug\Project.Statistics.resources
+D:\Даша\3\2\Физкультура\physical\Project\Project\bin\Debug\Project.exe.config
+D:\Даша\3\2\Физкультура\physical\Project\Project\obj\Debug\Project.exe
+D:\Даша\3\2\Физкультура\physical\Project\Project\obj\Debug\Project.pdb
+D:\Даша\3\2\Физкультура\physical\Project\Project\bin\Debug\Project.exe
+D:\Даша\3\2\Физкультура\physical\Project\Project\bin\Debug\Project.pdb
+D:\Даша\3\2\Физкультура\physical\Project\Project\bin\Debug\EntityFramework.dll
+D:\Даша\3\2\Физкультура\physical\Project\Project\bin\Debug\EntityFramework.SqlServer.dll
+D:\Даша\3\2\Физкультура\physical\Project\Project\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\Даша\3\2\Физкультура\physical\Project\Project\bin\Debug\Oracle.ManagedDataAccess.EntityFramework.dll
+D:\Даша\3\2\Физкультура\physical\Project\Project\bin\Debug\EntityFramework.xml
+D:\Даша\3\2\Физкультура\physical\Project\Project\bin\Debug\EntityFramework.SqlServer.xml
+D:\Даша\3\2\Физкультура\physical\Project\Project\obj\Debug\Project.csprojResolveAssemblyReference.cache
+D:\Даша\3\2\Физкультура\physical\Project\Project\obj\Debug\Project.login.resources
+D:\Даша\3\2\Физкультура\physical\Project\Project\obj\Debug\Project.Menu.resources
+D:\Даша\3\2\Физкультура\physical\Project\Project\obj\Debug\Project.List.resources
+D:\Даша\3\2\Физкультура\physical\Project\Project\obj\Debug\Project.NormDate.resources
+D:\Даша\3\2\Физкультура\physical\Project\Project\obj\Debug\Project.Properties.Resources.resources
+D:\Даша\3\2\Физкультура\physical\Project\Project\obj\Debug\Project.Statistics.resources
+D:\Даша\3\2\Физкультура\physical\Project\Project\obj\Debug\Project.csproj.GenerateResource.Cache
+D:\учеба\physical\Project\Project\bin\Debug\Project.exe.config
+D:\учеба\physical\Project\Project\obj\Debug\Project.exe
+D:\учеба\physical\Project\Project\obj\Debug\Project.pdb
+D:\Даша\3\2\Физкультура\physical\Project\Project\obj\Debug\Project.Choose.resources
+D:\Даша\3\2\Физкультура\physical\Project\Project\obj\Debug\Project.Stat_student.resources
+D:\учеба\physical\Project\Project\bin\Debug\Project.exe
+D:\учеба\physical\Project\Project\bin\Debug\Project.pdb
+D:\учеба\physical\Project\Project\bin\Debug\EntityFramework.dll
+D:\учеба\physical\Project\Project\bin\Debug\EntityFramework.SqlServer.dll
+D:\учеба\physical\Project\Project\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\учеба\physical\Project\Project\bin\Debug\Oracle.ManagedDataAccess.EntityFramework.dll
+D:\учеба\physical\Project\Project\bin\Debug\EntityFramework.xml
+D:\учеба\physical\Project\Project\bin\Debug\EntityFramework.SqlServer.xml
+D:\учеба\physical\Project\Project\obj\Debug\Project.csprojResolveAssemblyReference.cache
+D:\учеба\physical\Project\Project\obj\Debug\Project.Choose.resources
+D:\учеба\physical\Project\Project\obj\Debug\Project.Stat_student.resources
+D:\учеба\physical\Project\Project\obj\Debug\Project.login.resources
+D:\учеба\physical\Project\Project\obj\Debug\Project.Menu.resources
+D:\учеба\physical\Project\Project\obj\Debug\Project.List.resources
+D:\учеба\physical\Project\Project\obj\Debug\Project.NormDate.resources
+D:\учеба\physical\Project\Project\obj\Debug\Project.Properties.Resources.resources
+D:\учеба\physical\Project\Project\obj\Debug\Project.Statistics.resources
+D:\учеба\physical\Project\Project\obj\Debug\Project.csproj.GenerateResource.Cache
+D:\Даша\3\2\Физкультура\physical\Project\Project\obj\Debug\Project.Stat_section.resources
+D:\Даша\3\2\Физкультура\physical\Project\Project\obj\Debug\Project.LFK.resources
+D:\Даша\3\2\Физкультура\physical\Project\Project\obj\Debug\Project.Stat_group.resources
+D:\учеба\physical\Project\Project\obj\Debug\Project.LFK.resources
+D:\учеба\physical\Project\Project\obj\Debug\Project.Stat_group.resources
+D:\учеба\physical\Project\Project\obj\Debug\Project.Stat_section.resources
+C:\Users\Home\Desktop\АГУ\6_СЕМЕСТР\Инженерный практикум 05.06\2\physical-master\physical-master\Project\Project\bin\Debug\Project.exe.config
+C:\Users\Home\Desktop\АГУ\6_СЕМЕСТР\Инженерный практикум 05.06\2\physical-master\physical-master\Project\Project\bin\Debug\Project.exe
+C:\Users\Home\Desktop\АГУ\6_СЕМЕСТР\Инженерный практикум 05.06\2\physical-master\physical-master\Project\Project\bin\Debug\Project.pdb
+C:\Users\Home\Desktop\АГУ\6_СЕМЕСТР\Инженерный практикум 05.06\2\physical-master\physical-master\Project\Project\bin\Debug\EntityFramework.dll
+C:\Users\Home\Desktop\АГУ\6_СЕМЕСТР\Инженерный практикум 05.06\2\physical-master\physical-master\Project\Project\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Home\Desktop\АГУ\6_СЕМЕСТР\Инженерный практикум 05.06\2\physical-master\physical-master\Project\Project\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Home\Desktop\АГУ\6_СЕМЕСТР\Инженерный практикум 05.06\2\physical-master\physical-master\Project\Project\bin\Debug\Oracle.ManagedDataAccess.EntityFramework.dll
+C:\Users\Home\Desktop\АГУ\6_СЕМЕСТР\Инженерный практикум 05.06\2\physical-master\physical-master\Project\Project\bin\Debug\EntityFramework.xml
+C:\Users\Home\Desktop\АГУ\6_СЕМЕСТР\Инженерный практикум 05.06\2\physical-master\physical-master\Project\Project\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Home\Desktop\АГУ\6_СЕМЕСТР\Инженерный практикум 05.06\2\physical-master\physical-master\Project\Project\obj\Debug\Project.csprojAssemblyReference.cache
+C:\Users\Home\Desktop\АГУ\6_СЕМЕСТР\Инженерный практикум 05.06\2\physical-master\physical-master\Project\Project\obj\Debug\Project.Choose.resources
+C:\Users\Home\Desktop\АГУ\6_СЕМЕСТР\Инженерный практикум 05.06\2\physical-master\physical-master\Project\Project\obj\Debug\Project.LFK.resources
+C:\Users\Home\Desktop\АГУ\6_СЕМЕСТР\Инженерный практикум 05.06\2\physical-master\physical-master\Project\Project\obj\Debug\Project.Stat_group.resources
+C:\Users\Home\Desktop\АГУ\6_СЕМЕСТР\Инженерный практикум 05.06\2\physical-master\physical-master\Project\Project\obj\Debug\Project.Stat_section.resources
+C:\Users\Home\Desktop\АГУ\6_СЕМЕСТР\Инженерный практикум 05.06\2\physical-master\physical-master\Project\Project\obj\Debug\Project.Stat_student.resources
+C:\Users\Home\Desktop\АГУ\6_СЕМЕСТР\Инженерный практикум 05.06\2\physical-master\physical-master\Project\Project\obj\Debug\Project.login.resources
+C:\Users\Home\Desktop\АГУ\6_СЕМЕСТР\Инженерный практикум 05.06\2\physical-master\physical-master\Project\Project\obj\Debug\Project.Menu.resources
+C:\Users\Home\Desktop\АГУ\6_СЕМЕСТР\Инженерный практикум 05.06\2\physical-master\physical-master\Project\Project\obj\Debug\Project.List.resources
+C:\Users\Home\Desktop\АГУ\6_СЕМЕСТР\Инженерный практикум 05.06\2\physical-master\physical-master\Project\Project\obj\Debug\Project.NormDate.resources
+C:\Users\Home\Desktop\АГУ\6_СЕМЕСТР\Инженерный практикум 05.06\2\physical-master\physical-master\Project\Project\obj\Debug\Project.Properties.Resources.resources
+C:\Users\Home\Desktop\АГУ\6_СЕМЕСТР\Инженерный практикум 05.06\2\physical-master\physical-master\Project\Project\obj\Debug\Project.Statistics.resources
+C:\Users\Home\Desktop\АГУ\6_СЕМЕСТР\Инженерный практикум 05.06\2\physical-master\physical-master\Project\Project\obj\Debug\Project.csproj.GenerateResource.cache
+C:\Users\Home\Desktop\АГУ\6_СЕМЕСТР\Инженерный практикум 05.06\2\physical-master\physical-master\Project\Project\obj\Debug\Project.csproj.CoreCompileInputs.cache
+C:\Users\Home\Desktop\АГУ\6_СЕМЕСТР\Инженерный практикум 05.06\2\physical-master\physical-master\Project\Project\obj\Debug\Project.csproj.CopyComplete
+C:\Users\Home\Desktop\АГУ\6_СЕМЕСТР\Инженерный практикум 05.06\2\physical-master\physical-master\Project\Project\obj\Debug\Project.exe
+C:\Users\Home\Desktop\АГУ\6_СЕМЕСТР\Инженерный практикум 05.06\2\physical-master\physical-master\Project\Project\obj\Debug\Project.pdb
