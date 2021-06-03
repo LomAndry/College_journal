@@ -14,9 +14,9 @@ using System.Xml;
 
 namespace Project
 {
-    public partial class List : Form
+    public partial class Journal : Form
     {
-        public List()
+        public Journal()
         {
             InitializeComponent();
         }

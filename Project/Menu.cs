@@ -38,10 +38,10 @@ namespace Project
             normDate.Show();
             this.Hide();
         }
-        login loggin;
+        SelectTeacher loggin;
         private void button4_Click(object sender, EventArgs e)
         {
-            loggin = new login();
+            loggin = new SelectTeacher();
             loggin.Show();
             this.Hide();
         }

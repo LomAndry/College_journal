@@ -1,6 +1,6 @@
 ﻿namespace Project
 {
-    partial class login
+    partial class SelectTeacher
     {
         /// <summary>
         /// Required designer variable.

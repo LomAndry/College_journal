@@ -1,6 +1,6 @@
 ﻿namespace Project
 {
-    partial class List
+    partial class Journal
     {
         /// <summary>
         /// Required designer variable.
@@ -202,7 +202,7 @@
             this.Controls.Add(this.label1);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.Fixed3D;
             this.Name = "List";
-            this.Text = "Список студентов";
+            this.Text = "Журнал";
             this.Load += new System.EventHandler(this.List_Load);
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView2)).EndInit();
             this.ResumeLayout(false);

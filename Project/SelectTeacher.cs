@@ -13,10 +13,10 @@ using Oracle.ManagedDataAccess.Client;
 
 namespace Project
 {
-    public partial class login : Form
+    public partial class SelectTeacher : Form
     {
 
-        public login()
+        public SelectTeacher()
         {
             InitializeComponent();
         }
@@ -25,7 +25,7 @@ namespace Project
         OracleDataAdapter oraAdap = new OracleDataAdapter();
         AutoCompleteStringCollection source = new AutoCompleteStringCollection();
         TextBox textBox = new TextBox();
-
+        
         private bool Load_List()
         {
             bool flag = false;
